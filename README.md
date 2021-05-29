@@ -19,3 +19,6 @@ https://estrader.com.br
 
 >Upcoming Implementations
 * Payment Integration
+
+Print
+![](./print.jpg)
