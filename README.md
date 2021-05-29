@@ -11,6 +11,7 @@ https://estrader.com.br
 ## Important Features
 >Developed
 * [NextJS](https://nextjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
 * [Sass](https://github.com/sass/dart-sass)
 * [Animate On Scroll Library](https://michalsnik.github.io/aos)
 
