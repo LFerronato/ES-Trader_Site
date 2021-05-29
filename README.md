@@ -14,6 +14,7 @@ https://estrader.com.br
 * [TypeScript](https://www.typescriptlang.org/)
 * [Sass](https://github.com/sass/dart-sass)
 * [Animate On Scroll Library](https://michalsnik.github.io/aos)
+* Full responsive!
 
 >Deployed
 * [Vercel](https://vercel.com/)
